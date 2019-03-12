@@ -3,7 +3,7 @@
 
 ### Advanced English Phonetics class (ENGL437) in 2019 spring at [Korea University](https://www.korea.edu/)
 
-Studying python to Artificial Intelligence
+Python to Artificial Intelligence
 
 # Professor
 
