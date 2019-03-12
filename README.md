@@ -1,5 +1,5 @@
 # class2019spring
-=================
+
 
 ### Advanced English Phonetics class (ENGL437) in 2019 spring at [Korea University](https://www.korea.edu/)
 
