@@ -1,0 +1,381 @@
+Name,Link
+연합뉴스 바로가기,#news_cast
+주제별캐스트 바로가기,#themecast
+타임스퀘어 바로가기,#time_square
+쇼핑캐스트 바로가기,#shp_cst
+로그인 바로가기,#account
+네이버,/
+네이버를 시작페이지로,http://help.naver.com/support/alias/contents2/naverhome/naverhome_1.naver
+쥬니어네이버,http://jr.naver.com
+해피빈,http://happybean.naver.com/main/SectionMain.nhn
+자동완성 펼치기,javascript:;
+한글 입력기,javascript:;
+도움말 보기,https://help.naver.com/support/contents/contents.nhn?serviceNo=606&categoryNo=16658
+ON선택됨,#
+OFF,#
+로그인,https://nid.naver.com/nidlogin.login
+자세히,https://help.naver.com/support/alias/search/word/word_16.naver
+자세히,https://help.naver.com/support/contents/contents.nhn?serviceNo=606&categoryNo=16659
+도움말,https://help.naver.com/support/service/main.nhn?serviceNo=606&categoryNo=1987
+신고,https://help.naver.com/support/contents/contents.nhn?serviceNo=605&categoryNo=18215
+검색어저장 켜기,javascript:;
+자동완성 끄기,javascript:;
+도움말,https://help.naver.com/support/service/main.nhn?serviceNo=606&categoryNo=1987
+신고,https://help.naver.com/support/contents/contents.nhn?serviceNo=605&categoryNo=18215
+검색어저장 켜기,javascript:;
+자동완성 끄기,javascript:;
+도움말,https://help.naver.com/support/service/main.nhn?serviceNo=606&categoryNo=1987
+신고,https://help.naver.com/support/contents/contents.nhn?serviceNo=605&categoryNo=18215
+검색어저장 켜기,javascript:;
+자동완성 끄기,javascript:;
+도움말,https://help.naver.com/support/service/main.nhn?serviceNo=606&categoryNo=1987
+신고,https://help.naver.com/support/contents/contents.nhn?serviceNo=605&categoryNo=18215
+검색어저장 켜기,javascript:;
+자동완성 켜기,javascript:;
+최근검색어,javascript:;
+내 검색어,javascript:;
+내 검색어 등록,javascript:;
+@txt@,javascript:;
+삭제,javascript:;
+내 검색어 해제,javascript:;
+@txt@,javascript:;
+기록 삭제,javascript:;
+검색어저장 끄기,javascript:;
+자동완성 끄기,javascript:;
+기록 전체 삭제,javascript:;
+완료,javascript:;
+기록 전체 삭제,javascript:;
+검색어저장 끄기,javascript:;
+자동완성 끄기,javascript:;
+닫기,javascript:;
+자세히보기,
+메일,http://mail.naver.com/
+카페,http://section.cafe.naver.com/
+블로그,http://section.blog.naver.com/
+지식인,http://kin.naver.com/
+쇼핑,http://shopping2.naver.com/
+네이버페이,http://pay.naver.com/
+네이버TV,http://tv.naver.com/
+사전,http://dic.naver.com/
+뉴스,http://news.naver.com/
+증권(금융),http://finance.naver.com/
+부동산,http://land.naver.com/
+지도,https://map.naver.com/
+영화,http://movie.naver.com/
+뮤직,http://music.naver.com
+책,http://book.naver.com/
+만화 / 웹툰,http://comic.naver.com/
+더보기,#
+"1
+조블랙의 사랑",#
+"2
+린사모",#
+"3
+로또851회당첨번호",#
+"4
+삼합회",#
+"5
+오마이걸",#
+"6
+그것이 알고싶다 버닝썬",#
+"7
+킬잇",#
+"8
+대만 린사모",#
+"9
+포천 매니큐어",#
+"10
+육진수아내",#
+"11
+유재환 작곡",#
+"12
+발렌시아 구단주 딸",#
+"13
+실미도",#
+"14
+김연자",#
+"15
+자백",#
+"16
+신데렐라",#
+"17
+차준환",#
+"18
+드라마 킬잇",#
+"19
+포천 여중생",#
+"20
+림프종",#
+DataLab.급상승 트래킹,http://datalab.naver.com/keyword/realtimeList.naver?where=main
+1~10위,#
+11~20위,#
+"1
+조블랙의 사랑",http://search.naver.com/search.naver?where=nexearch&query=%EC%A1%B0%EB%B8%94%EB%9E%99%EC%9D%98+%EC%82%AC%EB%9E%91&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%A1%B0%EB%B8%94%EB%9E%99%EC%9D%98+%EC%82%AC%EB%9E%91&where=main
+"2
+린사모",http://search.naver.com/search.naver?where=nexearch&query=%EB%A6%B0%EC%82%AC%EB%AA%A8&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EB%A6%B0%EC%82%AC%EB%AA%A8&where=main
+"3
+로또851회당첨번호",http://search.naver.com/search.naver?where=nexearch&query=%EB%A1%9C%EB%98%90851%ED%9A%8C%EB%8B%B9%EC%B2%A8%EB%B2%88%ED%98%B8&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EB%A1%9C%EB%98%90851%ED%9A%8C%EB%8B%B9%EC%B2%A8%EB%B2%88%ED%98%B8&where=main
+"4
+삼합회",http://search.naver.com/search.naver?where=nexearch&query=%EC%82%BC%ED%95%A9%ED%9A%8C&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%82%BC%ED%95%A9%ED%9A%8C&where=main
+"5
+오마이걸",http://search.naver.com/search.naver?where=nexearch&query=%EC%98%A4%EB%A7%88%EC%9D%B4%EA%B1%B8&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%98%A4%EB%A7%88%EC%9D%B4%EA%B1%B8&where=main
+"6
+그것이 알고싶다 버닝썬",http://search.naver.com/search.naver?where=nexearch&query=%EA%B7%B8%EA%B2%83%EC%9D%B4+%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4+%EB%B2%84%EB%8B%9D%EC%8D%AC&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EA%B7%B8%EA%B2%83%EC%9D%B4+%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4+%EB%B2%84%EB%8B%9D%EC%8D%AC&where=main
+"7
+킬잇",http://search.naver.com/search.naver?where=nexearch&query=%ED%82%AC%EC%9E%87&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%ED%82%AC%EC%9E%87&where=main
+"8
+대만 린사모",http://search.naver.com/search.naver?where=nexearch&query=%EB%8C%80%EB%A7%8C+%EB%A6%B0%EC%82%AC%EB%AA%A8&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EB%8C%80%EB%A7%8C+%EB%A6%B0%EC%82%AC%EB%AA%A8&where=main
+"9
+포천 매니큐어",http://search.naver.com/search.naver?where=nexearch&query=%ED%8F%AC%EC%B2%9C+%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%ED%8F%AC%EC%B2%9C+%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4&where=main
+"10
+육진수아내",http://search.naver.com/search.naver?where=nexearch&query=%EC%9C%A1%EC%A7%84%EC%88%98%EC%95%84%EB%82%B4&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%9C%A1%EC%A7%84%EC%88%98%EC%95%84%EB%82%B4&where=main
+"11
+유재환 작곡",http://search.naver.com/search.naver?where=nexearch&query=%EC%9C%A0%EC%9E%AC%ED%99%98+%EC%9E%91%EA%B3%A1&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%9C%A0%EC%9E%AC%ED%99%98+%EC%9E%91%EA%B3%A1&where=main
+"12
+발렌시아 구단주 딸",http://search.naver.com/search.naver?where=nexearch&query=%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84+%EA%B5%AC%EB%8B%A8%EC%A3%BC+%EB%94%B8&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84+%EA%B5%AC%EB%8B%A8%EC%A3%BC+%EB%94%B8&where=main
+"13
+실미도",http://search.naver.com/search.naver?where=nexearch&query=%EC%8B%A4%EB%AF%B8%EB%8F%84&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%8B%A4%EB%AF%B8%EB%8F%84&where=main
+"14
+김연자",http://search.naver.com/search.naver?where=nexearch&query=%EA%B9%80%EC%97%B0%EC%9E%90&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EA%B9%80%EC%97%B0%EC%9E%90&where=main
+"15
+자백",http://search.naver.com/search.naver?where=nexearch&query=%EC%9E%90%EB%B0%B1&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%9E%90%EB%B0%B1&where=main
+"16
+신데렐라",http://search.naver.com/search.naver?where=nexearch&query=%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC&where=main
+"17
+차준환",http://search.naver.com/search.naver?where=nexearch&query=%EC%B0%A8%EC%A4%80%ED%99%98&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EC%B0%A8%EC%A4%80%ED%99%98&where=main
+"18
+드라마 킬잇",http://search.naver.com/search.naver?where=nexearch&query=%EB%93%9C%EB%9D%BC%EB%A7%88+%ED%82%AC%EC%9E%87&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EB%93%9C%EB%9D%BC%EB%A7%88+%ED%82%AC%EC%9E%87&where=main
+"19
+포천 여중생",http://search.naver.com/search.naver?where=nexearch&query=%ED%8F%AC%EC%B2%9C+%EC%97%AC%EC%A4%91%EC%83%9D&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%ED%8F%AC%EC%B2%9C+%EC%97%AC%EC%A4%91%EC%83%9D&where=main
+"20
+림프종",http://search.naver.com/search.naver?where=nexearch&query=%EB%A6%BC%ED%94%84%EC%A2%85&sm=top_lve&ie=utf8
+데이터랩 그래프 보기,http://datalab.naver.com/keyword/realtimeDetail.naver?datetime=2019-03-24T01:26:00&query=%EB%A6%BC%ED%94%84%EC%A2%85&where=main
+도움말,http://help.naver.com/support/alias/search/word/word_5.naver
+연합뉴스,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y
+김학의 출국금지 전 피내사자 전환…사실상 수사 개시,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713429
+불편심기 드러낸 北에 수위조절로 답한 美…대화재개 계기될까,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713267
+"개성 남북연락사무소 南인력 정상근무중…""안전 우려 없어""",http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713403
+박한별 경찰 조사…윤모 총경과 '골프 회동' 참고인 신분,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713454
+"경찰, 이부진 프로포폴 투약 의혹 성형외과 압수수색",http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713433
+쌀쌀하지만 쾌청한 일요일…미세먼지도 '좋음∼보통',http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713437
+위치추적기·부가티·밀항시도…'이희진 부모살해' 재구성,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713427
+선거운동 첫 주말 4·3보선 후보들 기선잡기 경쟁,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713382
+"'3강' SK·두산·키움, KBO리그 개막전 승리 합창",http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713414
+[르포] 문 닫는 현대차 '중국 1호' 공장엔 안 팔린 차만 가득,http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010713230
+네이버뉴스,http://news.naver.com/
+연예,http://entertain.naver.com/home
+스포츠,http://sports.news.naver.com/
+경제,http://news.naver.com/main/main.nhn?mode=LSD&mid=shm&sid1=101
+뉴스스탠드,http://newsstand.naver.com/
+전체 언론사,#
+MY 뉴스,#
+이미지형,#
+리스트형,#
+설정,http://newsstand.naver.com/config.html
+이전 페이지,#
+다음 페이지,#
+,http://newsstand.naver.com/?list=ct1&pcode=930
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=930
+,http://newsstand.naver.com/?list=ct1&pcode=057
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=057
+,http://newsstand.naver.com/?list=ct1&pcode=044
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=044
+,http://newsstand.naver.com/?list=ct1&pcode=079
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=079
+,http://newsstand.naver.com/?list=ct1&pcode=330
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=330
+,http://newsstand.naver.com/?list=ct1&pcode=015
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=015
+,http://newsstand.naver.com/?list=ct1&pcode=052
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=052
+,http://newsstand.naver.com/?list=ct1&pcode=293
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=293
+,http://newsstand.naver.com/?list=ct1&pcode=422
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=422
+,http://newsstand.naver.com/?list=ct1&pcode=021
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=021
+,http://newsstand.naver.com/?list=ct1&pcode=904
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=904
+,http://newsstand.naver.com/?list=ct1&pcode=006
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct1&pcode=006
+,http://newsstand.naver.com/?list=ct7&pcode=958
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct7&pcode=958
+,http://newsstand.naver.com/?list=ct2&pcode=961
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct2&pcode=961
+,http://newsstand.naver.com/?list=ct3&pcode=945
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct3&pcode=945
+,http://newsstand.naver.com/?list=ct7&pcode=355
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct7&pcode=355
+,http://newsstand.naver.com/?list=ct7&pcode=986
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct7&pcode=986
+,http://newsstand.naver.com/?list=ct2&pcode=969
+구독,#
+해지,#
+기사보기,http://newsstand.naver.com/?list=ct2&pcode=969
+종합/경제,#
+방송/통신,#
+IT,#
+영자지,#
+스포츠/연예,#
+매거진/전문지,#
+지역,#
+언론사 추가,http://newsstand.naver.com/config.html
+NAVER Sign in,https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fwww.naver.com
+Sign up,https://nid.naver.com/nidregister.form?url=https%3A%2F%2Fwww.naver.com
+Username,https://nid.naver.com/user/help.nhn?todo=idinquiry
+Password?,https://nid.naver.com/nidreminder.form
+03.24.(일),https://calendar.naver.com
+앞의 목록으로 이동,#
+뒤의 목록으로 이동,#
+TV뉴스,http://news.naver.com/main/tv/index.nhn?mid=tvh
+저녁 메인 뉴스 다시보기,http://news.naver.com/main/tv/index.nhn?mid=tvh
+문화,http://news.naver.com/main/list.nhn?mode=LS2D&mid=shm&sid1=103&sid2=242
+현재 상영 영화,http://search.naver.com/search.naver?sm=top_tsi&where=nexearch&query=%C7%F6%C0%E7%BB%F3%BF%B5%BF%B5%C8%AD
+오늘의 공연,http://search.naver.com/search.naver?sm=top_tsi&where=nexearch&query=%EC%98%A4%EB%8A%98+%EA%B3%B5%EC%97%B0+%EC%A0%95%EB%B3%B4
+전시회,http://search.naver.com/search.naver?sm=top_tsi&where=nexearch&query=%EB%AF%B8%EC%88%A0+%EC%A0%84%EC%8B%9C%ED%9A%8C
+부동산,http://land.naver.com/news
+"""파느니 증여""…고가아파트, 보유세 폭탄에도 급매 실종",http://land.naver.com/news
+리빙,#LIVINGHOME
+푸드,#LIVING
+스포츠,#SPORTS
+자동차,#CARGAME
+패션뷰티,#BEAUTY
+부모i,#MOMKIDS
+건강,#HEALTH
+웹툰,#BBOOM
+게임,#GAMEAPP
+TV연예,#VIDEO
+뮤직,#MUSIC
+영화,#MOVIE
+책문화,#CULTURE
+함께N,#WITH
+여행+,#TRAVEL
+디자인,#DESIGN
+경제M,#FINANCE
+JOB&,#JOB
+과학,#SCIENCE
+중국,#CHINA
+비즈니스,#BUSINESS
+FARM,#FARM
+스쿨잼,#SCHOOL
+공연전시,#SHOW
+법률,#LAW
+동물공감,#ANIMAL
+연애·결혼,#WEDDING
+테크,#ITTECH
+감성충전,#EMOTION
+이전 주제,#
+다음 주제,#
+전체 주제 열기,#
+전체 주제 목록 닫기,#
+관심주제 설정,#
+모바일 관심 주제 가져오기,#
+취소,#
+확인,#
+초기화,#
+전체선택,#
+모바일 관심 주제 가져오기,#
+(주)법률N미디어,https://blog.naver.com/naverlaw/221063633529
+"'구속된' 정준영, 구치소 아닌 유치장으로 간 이유",https://post.naver.com/viewer/postView.nhn?volumeNo=18499148
+"교학사 '노 전 대통령 비하 사진', 실수라도 처벌된다?",https://blog.naver.com/naverlaw/221494752503
+'음주운전' 돈 꺼낸 최종훈…3년전 일로 처벌될까,https://post.naver.com/viewer/postView.nhn?volumeNo=18500055&memberNo=38212397
+"'전두환 자택' 반값 낙찰, 바로 집 비워줘야 하나",https://blog.naver.com/naverlaw/221494749690
+5·18 왜곡하면 징역형…법조기자들의 현실 토론,https://post.naver.com/viewer/postView.nhn?volumeNo=18494815
+"전동킥보드, 하반기부터 자전거도로로 달린다",https://blog.naver.com/naverlaw/221492900264
+"연명치료 중단 요구 뒤 발생한 병원비, 낼 책임 없다고?",https://blog.naver.com/naverlaw/221492975635
+김학의·장자연 사건이 '특검 수사' 받으려면…,https://post.naver.com/viewer/postView.nhn?volumeNo=18463899
+"""포항지진 배상액 수조원""…정부 책임 어떻게 따질까",https://post.naver.com/viewer/postView.nhn?volumeNo=18466136&memberNo=38212397
+"""쏘나타 택시 안만든다"" 신차 구매자에 약속 어겼다면",https://post.naver.com/viewer/postView.nhn?volumeNo=18445760&memberNo=38212397
+임대수입 있으면 절반만? 국립대 시간강사료의 비밀,https://blog.naver.com/naverlaw/221493825622
+"'이희진 부모 살해' 공범들 해외 도주, 이후 수사는?",https://post.naver.com/viewer/postView.nhn?volumeNo=18445615&memberNo=38212397
+청담동 주식부자의 '부가티'는 몰수되지 않았던 이유,https://post.naver.com/viewer/postView.nhn?volumeNo=18445045
+뉴질랜드 총기난사 용의자 '셀프 변호'…국내서도 가능?,https://blog.naver.com/naverlaw/221492919258
+근로 불이행에 대한 위약금 약정은 적법할까?,https://kin.naver.com/qna/detail.nhn?d1id=6&dirId=60222&docId=303774160
+위약금 약정이나 손해배상 예정 금지 이유는?,https://kin.naver.com/qna/detail.nhn?d1id=6&dirId=60222&docId=303802114
+지식iN 법률 상담하러 가기,http://kin.naver.com/tag/tagDetail.nhn?tag=%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4
+https://castbox.shopping.naver.com/shopbox/main.nhn?,https://castbox.shopping.naver.com/shopbox/main.nhn?
+"칸아카데미 한국​
+학습 후기 공모전!
+여러분의 이야기를 기다려요~3/24 참여하러 가기",https://post.naver.com/viewer/postView.nhn?volumeNo=17986298&memberNo=23260204
+"네이버 해피빈 펀딩
+바삭바삭 수제 쿠키
+이웃을 사랑하는 마음으로하나씩 정성껏 구웠습니다",https://happybean.naver.com/crowdFunding/Intro/H000000153835
+공지사항,//www.naver.com/NOTICE
+네이버 ‘개인정보 처리방침’ 변경에 대한 안내,https://www.naver.com/NOTICE/read/1100001014/10000000000030665453
+서비스 전체보기,more.html
+바로가기,https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83
+프로젝트 꽃,https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83
+다운로드 안내,https://alpha.naver.com/experiment/newnaverapp/beta
+새로운 네이버 모바일,https://alpha.naver.com/experiment/newnaverapp/beta
+크리에이터,http://www.navercorp.com/ko/service/creators.nhn
+스몰비즈니스,http://www.navercorp.com/ko/service/business.nhn
+비즈니스 · 광고,http://business.naver.com/service.html
+스토어 개설,https://sell.storefarm.naver.com/#/home/about
+지역업체 등록,https://smartplace.naver.com/
+네이버 개발자센터,http://developers.naver.com
+오픈 API,https://developers.naver.com/docs/common/openapiguide/#/apilist.md/
+오픈소스,http://naver.github.io/
+네이버 D2,http://d2.naver.com/
+네이버 랩스,http://www.naverlabs.com/
+회사소개,http://www.navercorp.com/
+인재채용,http://recruit.navercorp.com/naver/recruitMain
+제휴제안,https://www.navercorp.com/naver/proposalGuide
+이용약관,/policy/service.html
+개인정보처리방침,/policy/privacy.html
+청소년보호정책,/policy/youthpolicy.html
+네이버 정책,/policy/spamcheck.html
+고객센터,https://help.naver.com/
+NAVER Corp.,http://www.navercorp.com/
