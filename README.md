@@ -1,7 +1,7 @@
 # class2019spring
 
 
-### Advanced English Phonetics class (ENGL437) in 2019 Spring at [Korea University](https://www.korea.edu/)
+### Applications in English Phonetics class (ENGL437) in 2019 Spring at [Korea University](https://www.korea.edu/)
 
 from Python to Artificial Intelligence
 
